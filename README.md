@@ -1,7 +1,9 @@
 Descrição do Projeto
-Este projeto é uma aplicação simples em Node.js que permite ao usuário verificar se um número é par ou ímpar. O objetivo é ilustrar conceitos básicos de programação, como condicionais, operadores aritméticos, e interação com o usuário via terminal.
 ##
-Objetivo
+Este projeto é uma aplicação simples em Node.js que permite ao usuário verificar se um número é par ou ímpar. O objetivo é ilustrar conceitos básicos de programação, como condicionais, operadores aritméticos, e interação com o usuário via terminal.
+
+##Objetivo
+
 O objetivo deste projeto é fornecer uma base simples para entender como o Node.js pode ser utilizado para construir scripts interativos no terminal. Além disso, serve como exemplo para iniciantes que desejam aprender a lógica de programação e como manipular entradas e saídas em JavaScript.
 ##
 Funcionalidades
